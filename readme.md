@@ -37,6 +37,7 @@
 ## Структура файлу
 
 - аркуш МЕТА - містить інформацію про план роботи, джерела інформації вихідних даних, аналіз якості даних та результпти очищення даних
+![аркуш МЕТА](screenshots/meta.png)
 - аркуші Transaction_clean, Customers_clean, Address_clean, NewCustomers_clean, AU_States містять очищені та підготовлені дані для аналізу
 - аркуш Dashboard - містить візуалізацію аналізу даних: [Дашборд](https://docs.google.com/spreadsheets/d/1NRMXCEFktRtBtS9sYOJOjE6KsIio7-3jFb-pyY9Pkp8/edit?gid=955877474#gid=955877474)
 
